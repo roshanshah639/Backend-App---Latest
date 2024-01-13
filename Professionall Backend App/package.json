@@ -17,6 +17,7 @@
   "author": "Roshan Bikram Shah",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.0.2"
+    "nodemon": "^3.0.2",
+    "prettier": "^3.2.1"
   }
 }
