@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "Nodejs",
@@ -16,7 +16,7 @@
   ],
   "author": "Roshan Bikram Shah",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "nodemon": "^3.0.2"
   }
 }
